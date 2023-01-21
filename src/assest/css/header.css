@@ -1,0 +1,31 @@
+.kayndrex_header {
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    padding: 1rem 6rem;
+    position:sticky;
+    width: 100 !important;
+    top: 0;
+    z-index: 1020;
+    box-shadow: 0rem 0.5rem 3rem rgba(71, 70, 70, 0.2)!important;
+}
+.kayndrex_logo {
+    margin-right: 20rem;
+}
+.kayndrex_logo img {
+    width: 5rem;
+    height: 5rem;
+}
+.kayndrex_item {
+    display: flex;
+    justify-content: space-between;
+}
+.kayndrex_item p {
+    position: relative;
+    top: 0.6rem;
+    margin-right: 3rem;
+}
+.kayndrex_header a {
+    text-decoration: none;
+    color: #ffffff;
+}
