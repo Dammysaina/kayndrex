@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Layout/>}>
-        <Route exact path="home" element={<Privacypolicy/>}/>
+        <Route path="home" element={<Privacypolicy/>}/>
         <Route exact path="termsandconditions" element={<Termsandcons/>} />
         <Route exact path="language" element={<Language/>}/>
         <Route path="/" element={<Navigate replace to="/privacypolicy" />} />
