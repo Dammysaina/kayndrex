@@ -25,4 +25,8 @@
     .language_date {
         padding: 0.5rem 2rem;
     }
+    .change_language h1 {
+        text-align: center;
+    }
 }
+
