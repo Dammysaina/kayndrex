@@ -170,7 +170,7 @@ body {
   }
   .logo img {
         position: relative;
-        right: 4rem ;
+        left: 2rem ;
   }
   .nav-elements {
     position: absolute;
