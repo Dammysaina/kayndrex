@@ -83,6 +83,8 @@
       margin-top: 22px;
     }
   }
+
+
   body {
     margin: 0;
     padding: 0;
@@ -117,6 +119,8 @@
   
   .menu-icon {
     display: none;
+    width: 5rem;
+    height: 5rem;
   }
   
   .nav-elements {
@@ -165,16 +169,17 @@
     .menu-icon {
       display: block;
       cursor: pointer;
+      color: #fcfcfc;
     }
   
     .nav-elements {
       position: absolute;
       right: 0;
       top: 60px;
-      background-color: #fef7e5;
+      background-color: black;
       width: 0px;
       height: calc(100vh - 60px);
-      transition: all 0.3s ease-in;
+      transition: all 0.2s ease-in;
       overflow: hidden;
     }
   
@@ -185,6 +190,7 @@
     .nav-elements ul {
       display: flex;
       flex-direction: column;
+      padding: 1rem;
     }
   
     .nav-elements ul li {
