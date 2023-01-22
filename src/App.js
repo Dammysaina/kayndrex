@@ -13,7 +13,7 @@ function App() {
         <Route path="home" element={<Privacypolicy/>}/>
         <Route exact path="termsandconditions" element={<Termsandcons/>} />
         <Route exact path="language" element={<Language/>}/>
-        <Route path="/" element={<Navigate replace to="/privacypolicy" />} />
+        <Route path="/" element={<Navigate replace to="/home" />} />
         </Route>
       </Routes>
     </BrowserRouter>
