@@ -22,3 +22,8 @@
     font-weight: 700;
     font-size: 1rem;
 }
+@media (max-width: 600px) {
+    .language_date {
+        padding: 0rem 2rem;
+    }
+}

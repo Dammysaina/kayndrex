@@ -31,7 +31,7 @@ const Header = () => {
         <img src={kayndrexlogo} alt="Kayndrexlogo"/>
         </div>
         <div className="menu-icon" onClick={handleShowNavbar}>
-          <FaBars />
+          <FaBars className="side_bar" />
         </div>
         <div className={`nav-elements  ${showNavbar && 'active'}`}>
           <ul>
