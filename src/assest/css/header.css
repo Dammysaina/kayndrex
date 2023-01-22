@@ -101,8 +101,13 @@
   
   .navbar {
     height: 60px;
-    background-color: #fef7e5;
-    position: relative;
+    background-color: black;
+    padding: 1rem 6rem;
+    position:sticky;
+    width: 100 !important;
+    top: 0;
+    z-index: 1020;
+    box-shadow: 0rem 0.5rem 3rem rgba(71, 70, 70, 0.2)!important;
   }
   
   .logo img{
@@ -130,7 +135,7 @@
   .nav-elements ul a {
     font-size: 16px;
     font-weight: 400;
-    color: #2f234f;
+    color: #ffffff;
     text-decoration: none;
   }
   
