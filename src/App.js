@@ -11,8 +11,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Layout/>}>
-          <Route path='home' element={<Home/>} />
-        <Route path="privacypolicy" element={<Privacypolicy/>}/>
+          {/* <Route path='home' element={<Home/>} /> */}
+        <Route path="home" element={<Privacypolicy/>}/>
         <Route exact path="termsandconditions" element={<Termsandcons/>} />
         <Route exact path="language" element={<Language/>}/>
         <Route path="/" element={<Navigate replace to="/home" />} />
