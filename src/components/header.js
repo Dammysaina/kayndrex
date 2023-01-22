@@ -36,7 +36,10 @@ const Header = () => {
         <div className={`nav-elements  ${showNavbar && 'active'}`}>
           <ul>
             <li>
-              <NavLink to="home">Privacy Policy</NavLink>
+              <NavLink to="home">Home</NavLink>
+            </li>
+            <li>
+              <NavLink to="privacypolicy">Privacy Policy</NavLink>
             </li>
             <li>
               <NavLink to="termsandconditions">Terms and Conditions</NavLink>

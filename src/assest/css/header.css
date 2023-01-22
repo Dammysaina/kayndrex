@@ -119,8 +119,6 @@
   
   .menu-icon {
     display: none;
-    width: 5rem;
-    height: 5rem;
   }
   
   .nav-elements {
@@ -171,7 +169,9 @@
       cursor: pointer;
       color: #fcfcfc;
     }
-  
+    .logo {
+        position: re;;
+    }
     .nav-elements {
       position: absolute;
       right: 0;
@@ -190,7 +190,6 @@
     .nav-elements ul {
       display: flex;
       flex-direction: column;
-      padding: 1rem;
     }
   
     .nav-elements ul li {
