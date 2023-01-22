@@ -168,8 +168,8 @@ body {
     cursor: pointer;
     color: #fcfcfc;
   }
-  .logo {
-    position: re;
+  .logo img {
+        text-align:center;
   }
   .nav-elements {
     position: absolute;
