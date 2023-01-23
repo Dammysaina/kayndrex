@@ -9,7 +9,7 @@ const Language = () => {
       </div>
       <div className="language_date">
       <h3>
-      Our Languages was last Updated: <span className="last_date">[18/01/2023]</span>
+      Last Updated: <span className="last_date">[18/01/2023]</span>
       </h3>
       <p>
         For <span className="devices">Android</span> devices, the language of your kayndrexsphere.com App is

@@ -10,7 +10,7 @@ const Privacypolicy = () => {
       </div>
       <div className="language_date">
         <h3>
-        Our Privacy Policy were last Updated:<span>[18/01/2023]</span>{" "}
+        Last Updated:<span>[23/01/2023]</span>{" "}
         </h3>
         <div>
           <h2>Introduction</h2>

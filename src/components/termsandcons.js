@@ -9,7 +9,7 @@ const Termsandcons = () => {
       </div>
       <div className="language_date ">
         <div>
-          <h3>Our Terms and Conditions were last updated: [19/01/2023] </h3>
+          <h3>Our Terms and Conditions were last updated: [23/01/2023] </h3>
           <p>
             Please read these terms and conditions carefully before using Our
             Service.{" "}
