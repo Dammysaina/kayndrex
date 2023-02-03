@@ -1,57 +1,41 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import kayndrexlogo from "../assest/images/kayndrex logo.jpg";
-import '../assest/css/header.css';
-import { NavLink } from "react-router-dom";
-import {FaBars} from "react-icons/fa"
+import "../assest/css/header.css";
+import { Link } from "react-router-dom";
+import { FaBars } from "react-icons/fa";
 
 const Header = () => {
-    const [showNavbar, setShowNavbar] = useState(false)
+  const [showNavbar, setShowNavbar] = useState(false);
 
   const handleShowNavbar = () => {
-    setShowNavbar(!showNavbar)
-  }
+    setShowNavbar(!showNavbar);
+  };
 
-    return (
-        // <div className="kayndrex_header">
-        //     <div className="kayndrex_logo">
-        //         <img src={kayndrexlogo} alt="Kayndrexlogo"/>
-        //     </div>
-        //     <button className="menu_icon" onClick={handleShowNavbar}>
-        //   <FaBars/>
-        // </button>
-        //     <div className={`kayndrex_item ${showNavbar && 'active'}`}>
-        //         <Link to="home"><p>Privacy Policy</p></Link>
-        //         <Link to="termsandconditions"><p>Terms and Conditions</p></Link>
-        //         <Link to="language"><p>Language</p></Link>
-        //     </div>
-        // </div>
-        <nav className="navbar">
+  return (
+    <nav className="navbar">
       <div className="container">
         <div className="logo">
-        <img src={kayndrexlogo} alt="Kayndrexlogo"/>
+          <img src={kayndrexlogo} alt="Kayndrexlogo" />
         </div>
         <div className="menu-icon" onClick={handleShowNavbar}>
           <FaBars className="side_bar" />
         </div>
-        <div className={`nav-elements  ${showNavbar && 'active'}`}>
+        <div className={`nav-elements  ${showNavbar && "active"}`}>
           <ul>
             <li>
-              {/* <NavLink to="home">Home</NavLink> */}
+              <Link to="home">Privacy Policy</Link>
             </li>
             <li>
-              <NavLink to="home">Privacy Policy</NavLink>
+              <Link to="termsandconditions">Terms and Conditions</Link>
             </li>
             <li>
-              <NavLink to="termsandconditions">Terms and Conditions</NavLink>
-            </li>
-            <li>
-              <NavLink to="language">Language</NavLink>
+              <Link to="language">Language</Link>
             </li>
           </ul>
         </div>
       </div>
     </nav>
-    )
+  );
 };
 
 export default Header;
