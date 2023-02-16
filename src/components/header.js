@@ -11,6 +11,11 @@ const Header = () => {
     setShowNavbar(!showNavbar);
   };
 
+  const menuItem = document.querySelectorAll("menu-item");
+  menuItem.forEach((item) => {
+    item.addEventListener("click", () => {});
+  });
+  
   return (
     <nav className="navbar">
       <div className="container">
