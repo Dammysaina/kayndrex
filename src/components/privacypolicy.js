@@ -16,7 +16,7 @@ const Privacypolicy = () => {
           <h2>Introduction</h2>
           <p>
             This Privacy Policy applies to Kayndrexsphere Limited&#39;s
-            Application Software; Kayndrexsphere.com. We understand that privacy
+            and it's products and services. We understand that privacy
             is important to our customers, and we are committed to protecting
             the personal information that you share with us.
           </p>

@@ -467,12 +467,12 @@ const Termsandcons = () => {
             <h3>Contact Us</h3>
             <p>
               If you have any questions concerning these Terms and Conditions,
-              You can contact us:
-            </p>
+               please contact us through e-mail at hello@kayndrexsphere.net
+               </p>
             <ul>
-              <li>
+              {/* <li>
                 By visiting this page on our website: hello@kayndrexsphere.net
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
