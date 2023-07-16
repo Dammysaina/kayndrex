@@ -59,7 +59,7 @@ const Termsandcons = () => {
                 &#39;We&#39;, &#39;Us&#39; or &#39;Our&#39; in this Agreement)
                 refers to Kayndrexsphere Group.
               </li>
-              <li> <span>&#39;Country&#39;</span> refers to Ireland.</li>
+              <li> <span>&#39;Country&#39;</span> refers to United Kingdom.</li>
               <li>
                 <span>&#39;Content&#39;</span> refers to content such as text, images, or
                 other information that can be posted, uploaded, linked to or
@@ -93,7 +93,7 @@ const Termsandcons = () => {
                 {" "}
                 <span>&#39;Website&#39;</span> refers to{" "}
                 <a
-                  href="https://www.kayndrexsphere.com/"
+                  href="https://www.kayndrexsphere.net"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -102,7 +102,7 @@ const Termsandcons = () => {
                 </a>
                 , accessible from{" "}
                 <a
-                  href="https://linktr.ee/kayndrexsphere.com"
+                  href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
