@@ -98,7 +98,7 @@ const Termsandcons = () => {
                   rel="noreferrer"
                 >
                   {" "}
-                  www.kayndrexsphere.com
+                  www.kayndrexsphere.net
                 </a>
                 , accessible from{" "}
                 <a
@@ -106,7 +106,7 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
-                  https://linktr.ee/kayndrexsphere.com
+                  www.kayndrexsphere.com
                 </a>
               </li>
               <li>
