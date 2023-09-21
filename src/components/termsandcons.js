@@ -9,7 +9,7 @@ const Termsandcons = () => {
       </div>
       <div className="language_date ">
         <div>
-          <h3>Our Terms and Conditions were last updated: [23/01/2023] </h3>
+          <h3>Our Terms and Conditions were last updated: [19/09/2023] </h3>
           <p>
             Please read these terms and conditions carefully before using Our
             Service.{" "}
@@ -395,6 +395,52 @@ const Termsandcons = () => {
               may not apply to You. But in such a case the exclusions and
               limitations set forth in this section shall be applied to the
               greatest extent enforceable under applicable law.{" "}
+            </p>
+          </div>
+          <div>
+            <h3>
+            'REGULATORY' and 'COMPLIANCE' Disclaimer
+            </h3>
+            <p>
+            Please read this disclaimer carefully before using our 
+            financial product, Kayndrexsphere, offered by the Company. 
+            By using our product, you acknowledge and agree to the following:
+            </p>
+            <ul className="terms_list">
+              <li>
+                <span>1.Unregulated Status: </span>The Company wishes to inform all 
+                users that the Application is currently in a pre-regulated phase. 
+                This means that it has not yet received the necessary licenses or 
+                approvals from regulatory authorities.
+              </li>
+              <li>
+                <span>2.Use at Your Own Discretion: </span>
+                The use of the Application is entirely at your 
+                own discretion. It is your responsibility to understand and 
+                accept the risks associated with using an unregulated financial 
+                product.
+              </li>
+              <li>
+                <span>
+                3.No Regulatory Oversight: 
+                </span>
+                Because the Application is not yet regulated, it does not benefit from the same level of oversight, protection, or dispute resolution mechanisms as regulated financial products.
+              </li>
+              <li>
+                <span>
+                4.Investment Risks: 
+                </span>
+                The Company does not provide any investment advice or guarantees regarding the performance or safety of your investments made through Kayndrexsphere. All investments carry inherent risks, and you should consider these risks carefully before participating.
+              </li>
+              <li>
+                <span>
+                5.Seek Professional Advice: 
+                </span>
+                We strongly recommend consulting with a qualified financial advisor or legal expert before using the Application if you have any concerns or questions about its suitability for your financial situation.
+              </li>
+            </ul>
+            <p>
+            By continuing to use the Application, you acknowledge that you have read and understood this disclaimer, and you agree to comply with its terms. If you do not agree with any part of this disclaimer, please refrain from using the Application.
             </p>
           </div>
           <div>
