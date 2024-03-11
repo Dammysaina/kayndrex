@@ -9,10 +9,10 @@ const Termsandcons = () => {
       </div>
       <div className="language_date ">
         <div>
-          <h3>Our Terms and Conditions were last updated: [19/09/2023] </h3>
+          <h3>Our Terms and Conditions were last updated: [05/03/2024] </h3>
           <p>
             Please read these terms and conditions carefully before using Our
-            Service.{" "}
+            Application or Service.{" "}
           </p>
         </div>
         <div>
@@ -51,69 +51,78 @@ const Termsandcons = () => {
                 election of directors or other managing authority.
               </li>
               <li>
-                <span>&#39;Account&#39;</span> means a unique account created for You to
-                access our Service or parts of our Service.
+                <span>&#39;Account&#39;</span> means a unique account created
+                for You to access our Service or parts of our Service.
               </li>
               <li>
-                <span>&#39;Company&#39;</span> (referred to as either &#39;the Company&#39;,
-                &#39;We&#39;, &#39;Us&#39; or &#39;Our&#39; in this Agreement)
-                refers to Kayndrexsphere Group.
-              </li>
-              <li> <span>&#39;Country&#39;</span> refers to United Kingdom.</li>
-              <li>
-                <span>&#39;Content&#39;</span> refers to content such as text, images, or
-                other information that can be posted, uploaded, linked to or
-                otherwise made available by You, regardless of the form of that
-                content.
+                <span>&#39;Company&#39;</span> (referred to as either &#39;the
+                Company&#39;, &#39;We&#39;, &#39;Us&#39; or &#39;Our&#39; in
+                this Agreement) refers to Kayndrexsphere Group.
               </li>
               <li>
-                <span>&#39;Device&#39;</span> means any device that can access the Service
-                such as a computer, a cell phone or a digital tablet.
+                {" "}
+                <span>&#39;Country&#39;</span> refers to United Kingdom.
               </li>
               <li>
-                <span>&#39;Feedback&#39;</span> means feedback, innovations or suggestions
-                sent by You regarding the attributes, performance or features of
-                our Service.
+                <span>&#39;Content&#39;</span> refers to content such as text,
+                images, or other information that can be posted, uploaded,
+                linked to or otherwise made available by You, regardless of the
+                form of that content.
               </li>
-              <li><span>&#39;Service&#39; </span>refers to the Website.</li>
+              <li>
+                <span>&#39;Device&#39;</span> means any device that can access
+                the Service such as a computer, a cell phone or a digital
+                tablet.
+              </li>
+              <li>
+                <span>&#39;Feedback&#39;</span> means feedback, innovations or
+                suggestions sent by You regarding the attributes, performance or
+                features of our Service.
+              </li>
+              <li>
+                <span>&#39;Service&#39; </span>refers to the Website.
+              </li>
               <li>
                 {" "}
                 <span>&#39;Terms and Conditions&#39;</span> (also referred as
-                <span>&#39;Terms&#39;</span>) means these Terms and Conditions that form the
-                entire agreement between You and the Company regarding the use
-                of the Service.
+                <span>&#39;Terms&#39;</span>) means these Terms and Conditions
+                that form the entire agreement between You and the Company
+                regarding the use of the Service.
               </li>
               <li>
-                <span>&#39;Third-party Service&#39;</span> means any services or content
-                (including data, information, products or service) provided by a
-                third-party that may be displayed, included or made available by
-                the Service.
+                <span>&#39;Third-party Service&#39;</span> means any services or
+                content (including data, information, products or service)
+                provided by a third-party that may be displayed, included or
+                made available by the Service.
               </li>
               <li>
                 {" "}
-                <span>&#39;Website&#39;</span> refers to{" "}
+                <span>&#39;Website&#39;</span> includes but not limited to{" "}
                 <a
                   href="https://www.kayndrexsphere.net"
                   target="_blank"
                   rel="noreferrer"
                 >
                   {" "}
-                  www.kayndrexsphere.net
                 </a>
                 , accessible from{" "}
                 <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
-                >
-                  www.kayndrexsphere.com
-                </a>
+                ></a>
+                , and
+                <a
+                  href="https://www.kayndrexsphere-rosy.vercel.app"
+                  target="_blank"
+                  rel="kayndrex noreferrer"
+                ></a>
               </li>
               <li>
-                <span>&#39;You&#39;</span> means the individual accessing or using the
-                Service, or the company, or other legal entity on behalf of
-                which such individual is accessing or using the Service, as
-                applicable.{" "}
+                <span>&#39;You&#39;</span> means the individual accessing or
+                using the Service, or the company, or other legal entity on
+                behalf of which such individual is accessing or using the
+                Service, as applicable.{" "}
               </li>
             </ul>
           </div>
@@ -266,13 +275,14 @@ const Termsandcons = () => {
           <div>
             <h3>Intellectual Property</h3>
             <p>
-              The Service and its original content (excluding Content provided
-              by You or other users), features and functionality are and will
-              remain the exclusive property of the Company and its licensors.{" "}
+              The Application or Service and its original content (excluding
+              Content provided by You or other users), features and
+              functionality are and will remain the exclusive property of the
+              Company and its licensors.{" "}
             </p>
             <p>
-              The Service is protected by copyright, trademark, and other laws
-              of both the Country and foreign countries.
+              The Application or Service is protected by copyright, trademark,
+              and other laws of both the Country and foreign countries.
             </p>
             <p>
               Our trademarks and trade dress may not be used in connection with
@@ -294,8 +304,8 @@ const Termsandcons = () => {
           <div>
             <h3>Links to Other Websites</h3>
             <p>
-              Our Service may contain links to third-party web sites or services
-              that are not owned or controlled by the Company.{" "}
+              Our Application or Service may contain links to third-party web
+              sites or services that are not owned or controlled by the Company.{" "}
             </p>
             <p>
               The Company has no control over, and assumes no responsibility
@@ -398,50 +408,53 @@ const Termsandcons = () => {
             </p>
           </div>
           <div>
-            <h3>
-            'REGULATORY' and 'COMPLIANCE' Disclaimer
-            </h3>
+            <h3>Handling of Customer Funds</h3>
             <p>
-            Please read this disclaimer carefully before using our 
-            financial product, Kayndrexsphere, offered by the Company. 
-            By using our product, you acknowledge and agree to the following:
+              We want to provide clear and transparent information about how
+              customer funds are handled within Our Application or Service. When
+              You deposit funds into your account with us, please note the
+              following:
             </p>
             <ul className="terms_list">
               <li>
-                <span>1.Unregulated Status: </span>The Company wishes to inform all 
-                users that the Application is currently in a pre-regulated phase. 
-                This means that it has not yet received the necessary licenses or 
-                approvals from regulatory authorities.
+                <span>1. Payment: </span>TWe do not accept cash and will never
+                ask You to make payments to a personal bank account on our
+                behalf, nor ask You for personal account details, card details
+                or passwords to your account. The acceptable means of payment
+                are card and online.
               </li>
               <li>
-                <span>2.Use at Your Own Discretion: </span>
-                The use of the Application is entirely at your 
-                own discretion. It is your responsibility to understand and 
-                accept the risks associated with using an unregulated financial 
-                product.
+                <span>2. Custodian: </span>
+                Customer funds are held securely within our Client Account,
+                which is managed and operated by Stripe, a regulated Electronic
+                Money Institution (EMI) authorised by the Financial Conduct
+                Authority (FCA) in the United Kingdom.
               </li>
               <li>
-                <span>
-                3.No Regulatory Oversight: 
-                </span>
-                Because the Application is not yet regulated, it does not benefit from the same level of oversight, protection, or dispute resolution mechanisms as regulated financial products.
+                <span>3. Safety and Security:</span>
+                Rest assured that Your funds are subject to the safety and
+                security measures provided by Stripe, an established financial
+                services provider.
               </li>
               <li>
-                <span>
-                4.Investment Risks: 
-                </span>
-                The Company does not provide any investment advice or guarantees regarding the performance or safety of your investments made through Kayndrexsphere. All investments carry inherent risks, and you should consider these risks carefully before participating.
+                <span>4. No Investment:</span>
+                We do not invest or use customer funds for any speculative or
+                investment activities. Your funds remain separate from our
+                operational finances.
               </li>
               <li>
-                <span>
-                5.Seek Professional Advice: 
-                </span>
-                We strongly recommend consulting with a qualified financial advisor or legal expert before using the Application if you have any concerns or questions about its suitability for your financial situation.
+                <span>5. Access:</span>
+                You have access to your funds within our platform, subject to
+                our terms and conditions, and you can withdraw them in
+                accordance with our established procedures.
+              </li>
+              <li>
+                <span>6. Regulatory Compliance:</span>
+                Our operations adhere to all applicable financial regulations,
+                including AML (Anti-Money Laundering) and KYC (Know Your
+                Customer) requirements.
               </li>
             </ul>
-            <p>
-            By continuing to use the Application, you acknowledge that you have read and understood this disclaimer, and you agree to comply with its terms. If you do not agree with any part of this disclaimer, please refrain from using the Application.
-            </p>
           </div>
           <div>
             <h3>Governing Law</h3>
@@ -513,8 +526,8 @@ const Termsandcons = () => {
             <h3>Contact Us</h3>
             <p>
               If you have any questions concerning these Terms and Conditions,
-               please contact us through email at hello@kayndrexsphere.net
-               </p>
+              please contact us through email at hello@kayndrexsphere.net
+            </p>
             <ul>
               {/* <li>
                 By visiting this page on our website: hello@kayndrexsphere.net
