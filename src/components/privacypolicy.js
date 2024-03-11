@@ -1,34 +1,28 @@
 import React from "react";
-import '../assest/css/language.css'
-
+import "../assest/css/language.css";
 
 export const Privacypolicy = () => {
   return (
-    <div >
+    <div>
       <div className="change_language">
         <h1>Kayndrexsphere Privacy Policy</h1>
       </div>
       <div className="language_date">
         <h3>
-        Last Updated:<span>[05/03/2024]</span>{" "}
+          Last Updated:<span>[05/03/2024]</span>{" "}
         </h3>
         <div>
           <h2>Introduction</h2>
           <p>
-            This Privacy Policy applies to Kayndrexsphere Group Limited&#39;s
-            and its products and services. We understand that privacy
-            is important to our customers, and we are committed to protecting
-            the personal information that you share with us.
+          This Privacy Policy applies to Kayndrexsphere Group Limited&#39;s and its products and services. We understand that privacy is important to our customers, and we are committed to protecting the personal information that you share with us.
+
           </p>
         </div>
         <div>
           <h2>Information We Collect</h2>
           <p>
-            We collect personal information that you provide to us voluntarily
-            through our websites, software/mobile application, or other
-            interactions. This information may include your name, email address,
-            phone number, and financial information such as bank account or
-            credit card numbers.
+          We collect personal information that you provide to us voluntarily through our websites, software/mobile application, or other interactions. This information may include your name, email address, phone number, and financial information such as bank account or credit card numbers.
+
           </p>
           <p>
             We also collect information about your use of our products and
@@ -47,7 +41,8 @@ export const Privacypolicy = () => {
           </p>
           <p>
             We may also use your personal information for marketing and
-            advertising purposes, but only with your express consent. <br />
+            advertising purposes, but only with your express consent.
+            <br />
             We do not sell or rent your personal information to any third
             parties.
           </p>
