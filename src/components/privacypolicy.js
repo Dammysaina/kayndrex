@@ -9,7 +9,7 @@ export const Privacypolicy = () => {
       </div>
       <div className="language_date">
         <h3>
-          Last Updated:<span>[05/03/2024]</span>{" "}
+          Last Updated:<span>05/03/2024</span>{" "}
         </h3>
         <div>
           <h2>Introduction</h2>
