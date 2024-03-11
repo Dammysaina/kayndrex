@@ -2,7 +2,7 @@ import React from "react";
 import '../assest/css/language.css'
 
 
-const Privacypolicy = () => {
+export const Privacypolicy = () => {
   return (
     <div >
       <div className="change_language">
