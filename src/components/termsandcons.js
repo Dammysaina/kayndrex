@@ -98,25 +98,26 @@ const Termsandcons = () => {
               <li>
                 {" "}
                 <span>&#39;Website&#39;</span> includes but not limited to{" "}
+                 
                 <a
                   href="https://www.kayndrexsphere.net"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  {" "}
+                 https://www.kayndrexsphere.net {" "}
                 </a>
-                , accessible from{" "}
+                ,{" "}
                 <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
-                ></a>
+                >https://www.kayndrexsphere.com</a>
                 , and
                 <a
                   href="https://www.kayndrexsphere-rosy.vercel.app"
                   target="_blank"
                   rel="kayndrex noreferrer"
-                ></a>
+                >https://www.kayndrexsphere-rosy.vercel.app</a>
               </li>
               <li>
                 <span>&#39;You&#39;</span> means the individual accessing or
