@@ -116,11 +116,11 @@ const Termsandcons = () => {
                 </a>
                 <span> , and </span>
                 <a
-                  href="https://www.kayndrexsphere-rosy.vercel.app"
+                  href="https://www.kayndrexsphere.vercel.app"
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
-                   https://www.kayndrexsphere-rosy.vercel.app
+                   https://www.kayndrexsphere.vercel.app
                 </a>
                 .
               </li>
