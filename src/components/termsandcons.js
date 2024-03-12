@@ -104,10 +104,10 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  https://www.kayndrexsphere.net
+                  https://www.kayndrexsphere.net  
                 </a> 
-                    ,
-                {/* <a
+                    <span> ,</span>
+                 <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
@@ -115,7 +115,7 @@ const Termsandcons = () => {
                    https://www.kayndrexsphere.com
                 </a>
                 , and 
-                <a
+                {/*<a
                   href="https://www.kayndrexsphere-rosy.vercel.app"
                   target="_blank"
                   rel="kayndrex noreferrer"
