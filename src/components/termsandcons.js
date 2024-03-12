@@ -77,7 +77,7 @@ const Termsandcons = () => {
               <li>
                 <span>&#39;Feedback&#39;</span> means feedback, innovations or
                 suggestions sent by You regarding the attributes, performance or
-                features of our Service.
+                features of our Application or Service.
               </li>
               <li>
                 <span>&#39;Service&#39; </span>refers to any Websites owned by
@@ -237,7 +237,7 @@ const Termsandcons = () => {
                 Company and its employees or representatives.
               </li>
               <li>Violating the privacy of any third person.</li>
-              <li>False information and features</li>
+              <li>False information and features.</li>
             </ul>
             <p>
               The Company reserves the right but not the obligation, to, in its
@@ -445,25 +445,25 @@ const Termsandcons = () => {
                 Authority (FCA) in the United Kingdom.
               </li>
               <li>
-                <span>3. Safety and Security:</span>
+                <span>3. Safety and Security: </span>
                 Rest assured that Your funds are subject to the safety and
                 security measures provided by Stripe, an established financial
                 services provider.
               </li>
               <li>
-                <span>4. No Investment:</span>
+                <span>4. No Investment: </span>
                 We do not invest or use customer funds for any speculative or
                 investment activities. Your funds remain separate from our
                 operational finances.
               </li>
               <li>
-                <span>5. Access:</span>
-                You have access to your funds within our platform, subject to
-                our terms and conditions, and you can withdraw them in
+                <span>5. Access: </span>
+                You have access to your funds within our Application, subject to
+                Our Terms and Conditions, and you can withdraw them in
                 accordance with our established procedures.
               </li>
               <li>
-                <span>6. Regulatory Compliance:</span>
+                <span>6. Regulatory Compliance: </span>
                 Our operations adhere to all applicable financial regulations,
                 including AML (Anti-Money Laundering) and KYC (Know Your
                 Customer) requirements.
