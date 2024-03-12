@@ -120,8 +120,9 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
-                   https://www.kayndrexsphere-rosy.vercel.app .
+                   https://www.kayndrexsphere-rosy.vercel.app
                 </a>
+                .
               </li>
               <li>
                 <span>&#39;You&#39;</span> means the individual accessing or
