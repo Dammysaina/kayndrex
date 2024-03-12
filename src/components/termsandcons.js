@@ -86,7 +86,7 @@ const Termsandcons = () => {
               <li>
                 {" "}
                 <span>&#39;Terms and Conditions&#39;</span> (also referred as
-                <span>&#39;Terms&#39;</span>) means these Terms and Conditions
+                <span> &#39;Terms&#39;</span>) means these Terms and Conditions
                 that form the entire agreement between You and the Company
                 regarding the use of the Application or Service.
               </li>
@@ -104,9 +104,9 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  https://www.kayndrexsphere.net{" "}
+                  https://www.kayndrexsphere.net 
                 </a>
-                ,{" "}
+                ,
                 <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
@@ -114,7 +114,7 @@ const Termsandcons = () => {
                 >
                   https://www.kayndrexsphere.com
                 </a>
-                , and
+                , and 
                 <a
                   href="https://www.kayndrexsphere-rosy.vercel.app"
                   target="_blank"
