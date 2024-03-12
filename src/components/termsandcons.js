@@ -106,8 +106,8 @@ const Termsandcons = () => {
                 >
                   https://www.kayndrexsphere.net
                 </a> 
-                   ,
-                <a
+                   and ,
+                {/* <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
@@ -121,7 +121,7 @@ const Termsandcons = () => {
                   rel="kayndrex noreferrer"
                 >
                    https://www.kayndrexsphere-rosy.vercel.app
-                </a>
+                </a> */}
               </li>
               <li>
                 <span>&#39;You&#39;</span> means the individual accessing or
