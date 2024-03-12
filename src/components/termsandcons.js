@@ -106,7 +106,7 @@ const Termsandcons = () => {
                 >
                   https://www.kayndrexsphere.net
                 </a> 
-                   and ,
+                    ,
                 {/* <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
