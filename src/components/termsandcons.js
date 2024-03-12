@@ -106,7 +106,7 @@ const Termsandcons = () => {
                 >
                   https://www.kayndrexsphere.net
                 </a> 
-                 ,
+                   ,
                 <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
@@ -114,7 +114,7 @@ const Termsandcons = () => {
                 >
                    https://www.kayndrexsphere.com
                 </a>
-                 , and 
+                , and 
                 <a
                   href="https://www.kayndrexsphere-rosy.vercel.app"
                   target="_blank"
