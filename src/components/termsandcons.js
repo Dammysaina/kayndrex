@@ -439,10 +439,9 @@ const Termsandcons = () => {
               </li>
               <li>
                 <span>2. Custodian: </span>
-                Customer funds are held securely within our Client Account,
-                which is managed and operated by Stripe, a regulated Electronic
-                Money Institution (EMI) authorised by the Financial Conduct
-                Authority (FCA) in the United Kingdom.
+                We've partnered with Stripe, a regulated Electronic Money Institution (EMI)
+                authorised by the Financial Conduct Authority (FCA) in the United Kingdom, 
+                to securely hold customer funds, ensuring the highest levels of safety and protection.
               </li>
               <li>
                 <span>3. Safety and Security: </span>
