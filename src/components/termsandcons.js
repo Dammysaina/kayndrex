@@ -13,7 +13,7 @@ const Termsandcons = () => {
             Please read these terms and conditions carefully before using Our
             Application or Service.{" "}
           </p>
-          <h3>Last Updated: 05/03/2024</h3>
+          <h3>Last Updated: 07/10/2024</h3>
         </div>
         <div>
           <h2>Interpretation and Definitions</h2>
@@ -104,15 +104,15 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  https://www.kayndrexsphere.net  
-                </a> 
-                    <span> , </span>
-                 <a
+                  https://www.kayndrexsphere.net
+                </a>
+                <span> , </span>
+                <a
                   href="https://www.kayndrexsphere.com"
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
-                   https://www.kayndrexsphere.com
+                  https://www.kayndrexsphere.com
                 </a>
                 <span> , and </span>
                 <a
@@ -120,7 +120,7 @@ const Termsandcons = () => {
                   target="_blank"
                   rel="kayndrex noreferrer"
                 >
-                   https://kayndrexsphere.vercel.app
+                  https://kayndrexsphere.vercel.app
                 </a>
                 .
               </li>
@@ -426,7 +426,7 @@ const Termsandcons = () => {
             <p>
               We want to provide clear and transparent information about how
               customer funds are handled within Our Application or Service. When
-              You deposit funds into your account with us, please note the
+              you deposit funds into your account with us, please note the
               following:  
             </p>
             <ul className="terms_list">
@@ -439,9 +439,10 @@ const Termsandcons = () => {
               </li>
               <li>
                 <span>2. Custodian: </span>
-                We've partnered with Stripe, a regulated Electronic Money Institution (EMI)
-                authorised by the Financial Conduct Authority (FCA) in the United Kingdom, 
-                to securely hold customer funds, ensuring the highest levels of safety and protection.
+                We've partnered with Stripe, a regulated Electronic Money
+                Institution (EMI) authorised by the Financial Conduct Authority
+                (FCA) in the United Kingdom, to securely hold customer funds,
+                ensuring the highest levels of safety and protection.
               </li>
               <li>
                 <span>3. Safety and Security: </span>
@@ -462,7 +463,15 @@ const Termsandcons = () => {
                 accordance with our established procedures.
               </li>
               <li>
-                <span>6. Regulatory Compliance: </span>
+                <span>6. Inactive Accounts and Unclaimed Funds: </span>
+                We reserve the right to transfer any unclaimed funds in inactive
+                Accounts to a charitable organisation after a period of 3 years.
+                Prior to making such transfer, We will undertake reasonable
+                efforts to locate and notify the customer to return the
+                unclaimed funds.
+              </li>
+              <li>
+                <span>7. Regulatory Compliance: </span>
                 Our operations adhere to all applicable financial regulations,
                 including AML (Anti-Money Laundering) and KYC (Know Your
                 Customer) requirements.
